@@ -1,7 +1,7 @@
 # image_converter
 This is a tool to convert images to RGB, Grayscale &amp; Threashold (Black and White) variants. 
 <br><br>
- Please make sure to install required dependencies(pip install -r requirements.txt).<br>Please check if Output_Folder have write access.
+ Please make sure to install required dependencies(pip install -r requirements.txt).
 
 ### The repository contains 2 python files
 ## demo.py
