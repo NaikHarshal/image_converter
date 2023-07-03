@@ -4,7 +4,7 @@ The tool to convert images to RGB, Grayscale &amp; Threashold (Black and White) 
 Please check if Output folder have write access
 Please make sure to install required dependencies
 
-The repository contains 2 python files
+### The repository contains 2 python files
 ## demo.py
 This is demo program that'll show user the different variants of given image
 By default an image from input folder is provided, you can provide your own thorugh modifying input file in code.
