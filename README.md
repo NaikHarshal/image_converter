@@ -1,5 +1,5 @@
 # image_converter
-The tool to convert images to RGB, Grayscale &amp; Threashold (Black and White) variants. 
+This is a tool to convert images to RGB, Grayscale &amp; Threashold (Black and White) variants. 
 
 Please check if Output folder have write access.
 
